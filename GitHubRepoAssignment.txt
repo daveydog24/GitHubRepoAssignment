@@ -1,0 +1,7 @@
+I created a repository on Github.com
+
+Then I created a folder for the assignment on my desktop through terminal
+
+I initialized a git repository and made a file readme.md explaining that I had created it.I checked the status with git status, added the commit with a message and then logged it to double check it. 
+
+I pushed the changes onto the Github repository i created earlier from my terminal and then now i am creating the text file explaining it. 
